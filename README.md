@@ -24,13 +24,13 @@ cloud-vm-deployment/
     ├── outputs.tf
 ```
 
-## 🏗 Architecture
+## Architecture
 (In progress)
 
-## 🔧 Tools
+## Tools
 Azure CLI, Bash, Terraform, Linux
 
-## 📘 Features
+## Features
 - VM creation
 - Network configuration
 - SSH access
